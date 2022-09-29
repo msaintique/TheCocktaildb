@@ -1,0 +1,106 @@
+.header
+{
+    background-color: rgb(29,0,13);
+    width: 100%;
+    height: 100px;
+}
+.header img
+{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 240px;
+}
+.menu
+{
+    margin-left:700px;
+    margin-top: -30px;
+   
+}
+.menu a
+{
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    width: 200px;
+    height: 30px;
+}
+ .menu a:hover
+{
+   background-color:rgb(197,45,47);
+    border-radius: 10px;
+   
+
+    
+}
+.body
+{
+    background-color: rgb(35, 3, 8);
+    width: 100%;
+    height: 1000px;
+}
+.input
+{
+    margin-left: 1120px;
+    margin-top: -38px;
+
+}
+.input input
+{
+    width: 100px;
+    height: 40px;
+    border-radius: 4px;
+}
+.body
+{
+    background-color: rgb(35, 3,18);
+    width: 100%;
+    height: 900px;
+}
+.body img
+{
+    width: 230px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.body h1
+{
+    color: white;
+    margin-top: -200px;
+    margin-left: 380px;
+    font-family: sans-serif;
+}
+.body p
+{
+    color: white;
+    margin-left: 320px;
+    font-family:serif;
+    color: white;
+   
+}
+.body a
+{
+  text-decoration: none;
+  color: gray;
+}
+.body a:hover
+{
+  color: rgb(248, 160, 0);
+}
+.logo
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 320px;
+    margin-top: -80px;
+}
+.logo img
+{
+    width: 200px;
+    height: 70px;
+}
+.body a:hover
+{
+    color: rgb(248, 160, 0);
+}
